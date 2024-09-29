@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  icons: "favicon.ico",
+  icons: "favicon.png",
   title: "FE Community",
   description: "Created by FE Community",
 };
